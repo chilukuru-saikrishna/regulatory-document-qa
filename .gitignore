@@ -1,0 +1,8 @@
+# Regulatory PDFs and the vector index are not committed
+*.pdf
+chroma*/
+data/
+
+.ipynb_checkpoints/
+__pycache__/
+.env
